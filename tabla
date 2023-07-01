@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <table>
+            <h3>Tabla</h3>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año de publicación</th>
+            <th>Enlace a Amazon</th>
+        </table>
+
+        <table>
+            <td>Alkelarre</td>
+            <td>Mario Mendoza</td>
+            <td>2019</td>
+            <td><a href="https://www.amazon.com/-/es/MENDOZA-MARIO/dp/9584276883">Alkelarre</a></td>
+        </table>
+        <table>
+
+            <td>Lady Masacre</td>
+            <td>Mario Mendoza</td>
+            <td>2013</td>
+            <td><a href="https://www.amazon.com/-/es/Mario-Mendoza/dp/9584236172">Lady Masacre</a></td>
+        </table>
+
+        <table>
+            <td>Diario del fin del mundo</td>
+            <td>Mario Mendoza</td>
+            <td>2018</td>
+            <td><a href="https://www.amazon.com/-/es/Mario-Mendoza/dp/9584268716"></a>Diario del fin del mundo</td>
+        </table>
+    </body>
+</html>
